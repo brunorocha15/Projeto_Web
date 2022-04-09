@@ -10,7 +10,12 @@ body{
     margin: 0px;
 }
 
+h4{
+    color: black;
+}
+
 .container{
+    background-color: black;
     margin: auto;
     display: flex;
     padding: 5px;
@@ -34,12 +39,23 @@ img{
     margin: 5px;
     padding: 15px;
     text-align: justify;
-    background-color: darkslategray;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.box_2{
+    margin: 5px;
+    padding: 15px;
+    text-align: justify;
+    background-color: #000000;
     border-radius: 10px;
 }
 
-a{
+p{
     color: white;
+}
+
+a{
+    color: cornflowerblue;
 }
 
 h2{
